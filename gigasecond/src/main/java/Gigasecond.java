@@ -5,20 +5,20 @@ import java.time.temporal.ChronoUnit;
 class Gigasecond {
 
     LocalDateTime localDateTime;
-
-    Gigasecond(LocalDate moment) {
-        //throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
-        this.localDateTime = moment.atTime(0, 0, 0);
-    }
+    long GIGA_SECOND = 1_000_000_000;
 
     Gigasecond(LocalDateTime moment) {
         //throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
         this.localDateTime = moment;
     }
 
+    Gigasecond(LocalDate moment) {
+        //throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
+        this(moment.atStartOfDay());
+    }
+
     LocalDateTime getDateTime() {
         //throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
-        LocalDateTime result = localDateTime.plus(1000000000, ChronoUnit.SECONDS);
-        return result;
+        return localDateTime.plusSeconds(GIGA_SECOND);
     }
 }
