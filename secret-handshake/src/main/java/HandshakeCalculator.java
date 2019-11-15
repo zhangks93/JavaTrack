@@ -4,38 +4,25 @@ import java.util.List;
 
 class HandshakeCalculator {
 
-    List<Signal> calculateHandshake(int number) {
-        //throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
-        String binary = binaryFromDecimal(number);
+    final Signal[] signals = {Signal.WINK,Signal.DOUBLE_BLINK,Signal.CLOSE_YOUR_EYES, Signal.JUMP };
 
-        if (binary.length() == 5){
-            List<Signal> result = returnUnreversed(binary.substring(1));
-            Collections.reverse(result);
-            return result;
-        }else{
-            return returnUnreversed(binary);
-        }
-    }
-
-    String binaryFromDecimal(int n){
-        String str = "";
-        while(n!=0){
-            str = n%2+str;
-            n = n/2;
-        }
-        return (str.equals(""))? "0":str;
-    }
-
-    List<Signal> returnUnreversed(String binary){
-        binary = "000" + binary;
-        binary = binary.substring(binary.length()-4);
-
+    public List<Signal> calculateHandshake(int number) {
         List<Signal> result = new ArrayList<>();
-        if (binary.charAt(3) == '1') result.add(Signal.WINK);
-        if (binary.charAt(2) == '1') result.add(Signal.DOUBLE_BLINK);
-        if (binary.charAt(1) == '1') result.add(Signal.CLOSE_YOUR_EYES);
-        if (binary.charAt(0) == '1') result.add(Signal.JUMP);
 
-        return result;
+        if (number >> 4 == 1){
+            number = number - 16;
+            return addSignal(result, number);
+        }else{
+            Collections.reverse(addSignal(result,number));
+            return result;
+        }
     }
+
+    List<Signal> addSignal(List<Signal> list, int number ) {
+        for (int i = 3; i >= 0; i--){
+            if(number >> i == 1) {list.add(signals[i]);number = number - (int) Math.pow(2,i);}
+        }
+        return list;
+    }
+
 }
