@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29046540-c92b-4956-8e10-62df9535c0f2" name="Default Changelist" comment="" />
+    <list default="true" id="7dbb08b7-7efb-4395-9f57-9fbdab660e15" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -23,13 +23,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PangramCheckerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/VariableLengthQuantity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VariableLengthQuantityTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -40,15 +46,6 @@
             <state split_layout="SPLIT">
               <first_editor />
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PangramChecker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -66,8 +63,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/PangramCheckerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PangramChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/VariableLengthQuantity.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VariableLengthQuantityTest.java" />
       </list>
     </option>
   </component>
@@ -88,36 +85,36 @@
         <subPane>
           <expand>
             <path>
-              <item name="pangram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pangram" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="variable-length-quantity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="variable-length-quantity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="pangram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pangram" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="variable-length-quantity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="variable-length-quantity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pangram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pangram" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="variable-length-quantity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="variable-length-quantity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="pangram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pangram" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="variable-length-quantity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="variable-length-quantity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pangram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pangram" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="variable-length-quantity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="variable-length-quantity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="pangram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pangram" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="variable-length-quantity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="variable-length-quantity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -130,7 +127,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/桌面/demoForRabbitMQ" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../protein-translation" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -147,63 +144,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="PangramCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="pangram.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PangramCheckerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.PangramCheckerTest" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="TestHistory">
-    <history-entry file="PangramCheckerTest - 2019.11.30 at 03h 35m 37s.xml">
-      <configuration name="PangramCheckerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PangramCheckerTest - 2019.11.30 at 03h 35m 41s.xml">
-      <configuration name="PangramCheckerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PangramCheckerTest - 2019.11.30 at 03h 35m 58s.xml">
-      <configuration name="PangramCheckerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PangramCheckerTest - 2019.11.30 at 03h 37m 33s.xml">
-      <configuration name="PangramCheckerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PangramCheckerTest - 2019.11.30 at 03h 38m 30s.xml">
-      <configuration name="PangramCheckerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PangramCheckerTest - 2019.11.30 at 03h 39m 06s.xml">
-      <configuration name="PangramCheckerTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="ToolWindowManager">
     <frame x="53" y="25" width="1313" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25375494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25375494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3284553" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.3284553" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.3284553" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -217,13 +176,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/PangramCheckerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/VariableLengthQuantity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -235,10 +191,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PangramChecker.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/VariableLengthQuantityTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="17">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
