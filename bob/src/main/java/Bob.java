@@ -12,16 +12,15 @@ Please remove this comment when submitting your solution.
 
 */
 public class Bob {
-    Map<String,String> remember = new HashMap<String, String>();
+
 
     public Bob(){
-        remember.put("Tom-ay-to, tom-aaaah-to.","Whatever.");
-        remember.put("WATCH OUT!","Whoa, chill out!");
-        remember.put("FCECDFCAAB","Whoa, chill out!");
-        remember.put("Does this cryogenic chamber make me look fat?","Sure.");
-
     }
-    public String hey(String input){
-        return remember.get(input);
+    public String hey(String inputString){
+        if (inputString.toUpperCase().equals(inputString) && !inputString.toLowerCase().equals(inputString) && !inputString.trim().endsWith("?")) return "Whoa, chill out!";
+        else if (inputString.toUpperCase().equals(inputString) && !inputString.toLowerCase().equals(inputString) && inputString.trim().endsWith("?")) return "Calm down, I know what I'm doing!";
+        else if (inputString.trim().endsWith("?")) return "Sure.";
+        else if (inputString.trim().equals("")) return "Fine. Be that way!";
+        else return "Whatever.";
     }
 }

@@ -22,7 +22,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PhoneNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="267">
@@ -35,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/PhoneNumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1751">
+            <state relative-caret-position="127">
               <caret line="108" column="16" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
             </state>
           </provider>
@@ -80,8 +80,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,6 +122,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,9 +162,6 @@
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="PhoneNumberTest - 2019.12.03 at 03h 15m 07s.xml">
-      <configuration name="PhoneNumberTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PhoneNumberTest - 2019.12.03 at 03h 20m 42s.xml">
       <configuration name="PhoneNumberTest" configurationId="JUnit" />
     </history-entry>
@@ -192,17 +189,21 @@
     <history-entry file="PhoneNumberTest - 2019.12.03 at 03h 40m 41s.xml">
       <configuration name="PhoneNumberTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PhoneNumberTest - 2019.12.10 at 22h 52m 43s.xml">
+      <configuration name="PhoneNumberTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="25" width="1313" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25375494" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.258498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29430893" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29430893" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -231,16 +232,9 @@
         <state relative-caret-position="267">
           <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
           <folding>
-            <element signature="e#0#276#0" expanded="true" />
+            <element signature="e#1884#1885#0" expanded="true" />
             <element signature="e#1918#1919#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PhoneNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1751">
-          <caret line="108" column="16" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -249,6 +243,13 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PhoneNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="108" column="16" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
         </state>
       </provider>
     </entry>

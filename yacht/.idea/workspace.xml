@@ -26,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="340">
-                <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="12" />
+              <first_editor relative-caret-position="187">
+                <caret line="20" column="90" lean-forward="true" selection-start-line="20" selection-start-column="87" selection-end-line="20" selection-end-column="90" />
               </first_editor>
               <second_editor />
             </state>
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Yacht.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="102">
+              <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/YachtTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2856">
-              <caret line="171" selection-start-line="171" selection-end-line="171" />
+            <state relative-caret-position="40">
+              <caret line="129" column="31" selection-start-line="129" selection-start-column="31" selection-end-line="129" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,7 +89,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,6 +131,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.YachtTest">
     <configuration name="YachtTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="yacht.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -163,54 +163,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="YachtTest.fullHouseIsNotFourOfAKind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yacht.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YachtTest" />
+      <option name="METHOD_NAME" value="fullHouseIsNotFourOfAKind" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.YachtTest" />
+        <item itemvalue="JUnit.YachtTest.fullHouseIsNotFourOfAKind" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="YachtTest - 2019.11.15 at 01h 40m 18s.xml">
-      <configuration name="YachtTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="YachtTest - 2019.11.15 at 01h 45m 20s.xml">
-      <configuration name="YachtTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="YachtTest - 2019.11.15 at 03h 03m 29s.xml">
-      <configuration name="YachtTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="YachtTest - 2019.11.15 at 03h 04m 38s.xml">
-      <configuration name="YachtTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="YachtTest - 2019.11.15 at 03h 08m 42s.xml">
-      <configuration name="YachtTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="YachtTest - 2019.11.15 at 03h 12m 16s.xml">
-      <configuration name="YachtTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="YachtTest - 2019.11.15 at 03h 16m 38s.xml">
-      <configuration name="YachtTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="YachtTest - 2019.11.15 at 03h 21m 48s.xml">
-      <configuration name="YachtTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="YachtTest - 2019.11.15 at 03h 22m 34s.xml">
       <configuration name="YachtTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="YachtTest - 2019.11.15 at 03h 27m 22s.xml">
       <configuration name="YachtTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="YachtTest - 2019.12.10 at 22h 53m 38s.xml">
+      <configuration name="YachtTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YachtTest - 2019.12.10 at 22h 56m 13s.xml">
+      <configuration name="YachtTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YachtTest - 2019.12.10 at 23h 24m 41s.xml">
+      <configuration name="YachtTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YachtTest - 2019.12.10 at 23h 31m 26s.xml">
+      <configuration name="YachtTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YachtTest - 2019.12.10 at 23h 35m 35s.xml">
+      <configuration name="YachtTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YachtTest - 2019.12.10 at 23h 37m 52s.xml">
+      <configuration name="YachtTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YachtTest_fullHouseIsNotFourOfAKind - 2019.12.10 at 23h 50m 32s.xml">
+      <configuration name="YachtTest.fullHouseIsNotFourOfAKind" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YachtTest - 2019.12.10 at 23h 50m 39s.xml">
+      <configuration name="YachtTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="25" width="1313" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.258498" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2632411" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29593495" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24715447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -234,16 +245,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/YachtCategory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -251,20 +252,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/YachtTest.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="20" column="90" lean-forward="true" selection-start-line="20" selection-start-column="87" selection-end-line="20" selection-end-column="90" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Yacht.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2856">
-          <caret line="171" selection-start-line="171" selection-end-line="171" />
+        <state relative-caret-position="102">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Yacht.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/YachtTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="40">
+          <caret line="129" column="31" selection-start-line="129" selection-start-column="31" selection-end-line="129" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
