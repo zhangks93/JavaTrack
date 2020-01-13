@@ -2,18 +2,20 @@
 class Matrix {
 
     int[][] matrix;
+    int[][] matrix_reversed;
 
     Matrix(String matrixAsString) {
         String[] splited = matrixAsString.split("\n");
         int row = splited.length;
         int col = splited[0].split(" ").length;
         matrix = new int[row][col];
+        matrix_reversed = new int[col][row];
 
         for (int i = 0 ; i < row; i++) {
             String[] units = splited[i].split(" ");
             for (int j = 0; j < col; j++) {
-                matrix[i][j] = Integer.parseInt(units[j]);
-                System.out.println(matrix[i][j]);
+                matrix[i][j] = matrix_reversed[j][i] = Integer.parseInt(units[j]);
+
             }
         }
     }
@@ -23,10 +25,6 @@ class Matrix {
     }
 
     int[] getColumn(int columnNumber) {
-        int[] result = new int[matrix.length];
-        for (int i = 0; i < result.length; i++){
-            result[i] = matrix[i][columnNumber-1];
-        }
-        return result;
+        return matrix_reversed[columnNumber-1];
     }
 }

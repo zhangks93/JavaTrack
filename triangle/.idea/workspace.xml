@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5921f9a-3b29-4729-adbd-2e5f13456f25" name="Default Changelist" comment="" />
+    <list default="true" id="3619d9cd-6b13-4d3a-a1b6-d8535863f1f4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -21,32 +21,52 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/MatrixTest.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="-1152">
+              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Matrix.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TriangleException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>throw new UnsupportedOperationException(&quot;Delete this statement and write your own implementation.&quot;);</find>
+      <find>@Ignore(&quot;Remove to run test&quot;)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/MatrixTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TriangleException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TriangleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Triangle.java" />
       </list>
     </option>
   </component>
@@ -66,36 +86,36 @@
         <subPane>
           <expand>
             <path>
-              <item name="matrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matrix" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="triangle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triangle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="matrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matrix" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="triangle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triangle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="matrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matrix" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="triangle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triangle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="matrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matrix" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="triangle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triangle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="matrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matrix" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="triangle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triangle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="matrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="matrix" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="triangle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="triangle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -109,7 +129,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../triangle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -127,10 +147,10 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="MatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="matrix.test" />
+    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="triangle.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MatrixTest" />
+      <option name="MAIN_CLASS_NAME" value="TriangleTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,92 +158,67 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MatrixTest" />
+        <item itemvalue="JUnit.TriangleTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="MatrixTest - 2019.11.16 at 01h 19m 04s.xml">
-      <configuration name="MatrixTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixTest - 2019.11.16 at 01h 19m 44s.xml">
-      <configuration name="MatrixTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixTest - 2019.11.16 at 01h 20m 26s.xml">
-      <configuration name="MatrixTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixTest - 2019.11.16 at 01h 24m 50s.xml">
-      <configuration name="MatrixTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixTest - 2019.11.16 at 01h 25m 20s.xml">
-      <configuration name="MatrixTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixTest - 2019.11.16 at 01h 28m 42s.xml">
-      <configuration name="MatrixTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixTest - 2019.11.16 at 01h 29m 51s.xml">
-      <configuration name="MatrixTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixTest - 2019.11.16 at 01h 32m 30s.xml">
-      <configuration name="MatrixTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixTest - 2020.01.08 at 17h 58m 45s.xml">
-      <configuration name="MatrixTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixTest - 2020.01.08 at 18h 04m 58s.xml">
-      <configuration name="MatrixTest" configurationId="JUnit" />
+    <history-entry file="TriangleTest - 2020.01.13 at 17h 54m 41s.xml">
+      <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="25" width="1313" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2632411" />
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.3284553" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24715447" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3284553" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.3284553" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Gradle" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/MatrixTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="-1152">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Matrix.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TriangleException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
         </state>
       </provider>
     </entry>

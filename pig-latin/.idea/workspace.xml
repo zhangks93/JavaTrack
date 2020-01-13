@@ -92,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="72" />
     <option name="y" value="31" />
     <option name="width" value="1169" />
@@ -207,7 +207,7 @@
       <window_info anchor="bottom" id="Build" weight="0.07479675" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2796748" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2796748" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
